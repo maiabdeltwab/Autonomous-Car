@@ -1,4 +1,4 @@
-# Raspberry-Car-Embedded-Project
+# Autonomous Raspberry Car
 
 Project phases:
 1. Camera web server.
