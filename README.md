@@ -24,3 +24,4 @@ Project phases:
 
 ## Project presentation 
 
+[Embedded Project.pdf](https://github.com/maiabdeltwab/Raspberry-Car/files/6137558/Embedded.Project.pdf)
